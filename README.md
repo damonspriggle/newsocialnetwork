@@ -5,7 +5,6 @@
 ​
 ## Table of Contents
 * [Technologies](#technologies)
-* [Installation](#installation)
 * [Packages](#packages)
 * [Screenshot](#screenshots)
 * [Walkthrough Video](#walkthrough)
@@ -13,14 +12,6 @@
 <a name="technologies"></a>
 ## Technologies
 This app was created using JavaScript, Express & Mongoose. Features route testing in Insomnia.
-
-<a name="installation"></a>
-## Installation
-To install this app, clone the repository and navigate to the project folder on the command line. Run the following command from your CLI to install Node.js:
-```npm install```
-
-Run the following command from your CLI to start the application:
-```npm start``` 
 
 <a name="packages"></a>
 ## Packages
