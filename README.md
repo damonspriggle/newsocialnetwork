@@ -20,3 +20,6 @@ This app was created using JavaScript, Express & Mongoose. Features route testin
 
 <a name ="walkthrough"></a>
 ## Walkthrough Video
+
+https://www.awesomescreenshot.com/video/9895136?key=4ea90d7575830b6247c200942a9eee5b
+
